@@ -18,8 +18,6 @@ $ node app.js or nodemon
 
 ```
 
-##### **Endpoints**
-
 
 ##### **Endpoints**
     + GET /fishes - Display a list  of fish objects
@@ -36,7 +34,8 @@ $ node app.js or nodemon
     }
 ```
 
-###### ** File Structure**
+###### **File Structure**
+
 ```
 ├── app.js
 ├── db
